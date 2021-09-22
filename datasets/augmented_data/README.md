@@ -1,0 +1,1 @@
+Location of the pre-generated augmented data files. Get them using the links `https://drive.google.com/file/d/1YSgIb5vbFAX-OqPSuoLYphJ-dQeFv87F/view?usp=sharing` and `https://drive.google.com/file/d/1y_-EdZ6w3ZBZbfTmzi_TDljBD-kvijKm/view?usp=sharing` and save them here as folders `contextual_bert` and `backtranslation` respecitvely.
