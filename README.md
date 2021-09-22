@@ -88,8 +88,7 @@ If you use this code in your research, please cite:
   title     = {Learning Data Augmentation Schedules for Natural Language Processing},
   author    = {Daphn{\'e} Chopard and
                Matthias S. Treder and
-               Irena Spasi{\'c}
-  },
+               Irena Spasi{\'c}},
   maintitle = {EMNLP Workshop},
   booktitle = {Proceedings of the Second Workshop on Insights from Negative Results in NLP},
   year      = {2021}
